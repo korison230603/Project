@@ -17,4 +17,4 @@ Natural Disaster Events Statistics in Indonesia
 
 ## Result
 
-You can see an explanation of the project at the following link [online](https://docs.google.com/document/d/1YOOFL5IjDahHiai7vWOFo8d31OsUa6EW/edit?usp=sharing&ouid=106602895541894894379&rtpof=true&sd=true), and to view the dashboard using Google Data Studio/Looker, please visit the following link [online](https://lookerstudio.google.com/s/hhmvX5NKuvw).
+You can see an explanation of the project at the following link [online](https://drive.google.com/file/d/1suv0qZoethsu7i7nZFM2wN3-Ekg7gj59/view?usp=sharing)), and to view the dashboard using Google Data Studio/Looker, please visit the following link [online](https://lookerstudio.google.com/s/hhmvX5NKuvw).
